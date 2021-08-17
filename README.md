@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Diego | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Dtowerssj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -39,7 +39,7 @@
   <summary>Apps (React Native ⚛️) </summary>
   
 <!--START_SECTION:activity-->
-1. [<img align="left" alt="Bitcoin" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGMhXVg-n_ktpVcCxG5nIx2C2SPPFFFHOj8w&usqp=CAU" />] [Crypto-Tracker](https://github.com/Dtowerssj/crypto-tracker-app)
+1. [<img align="left" alt="Bitcoin" width="22px" src="https://w7.pngwing.com/pngs/1018/698/png-transparent-bitcoin-cash-cryptocurrency-money-blockchain-election-flyers-text-orange-logo.png" />] [Crypto-Tracker](https://github.com/Dtowerssj/crypto-tracker-app)
 2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
 3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
