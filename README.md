@@ -36,10 +36,10 @@
 ---
 
 <details>
-  <summary>Apps (React Native [<img align="left" alt="React" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]) </summary>
+  <summary>Apps (React Native [<img alt="React" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]) </summary>
   
 <!--START_SECTION:activity-->
-1. [<img align="left" alt="Bitcoin" width="22px" src="https://w7.pngwing.com/pngs/1018/698/png-transparent-bitcoin-cash-cryptocurrency-money-blockchain-election-flyers-text-orange-logo.png" />] Crypto-Tracker(https://github.com/Dtowerssj/crypto-tracker-app)
+1. [<img align="left" alt="Bitcoin" width="22px" src="https://w7.pngwing.com/pngs/1018/698/png-transparent-bitcoin-cash-cryptocurrency-money-blockchain-election-flyers-text-orange-logo.png" />] [Crypto-Tracker](https://github.com/Dtowerssj/crypto-tracker-app)
 2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
 3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
