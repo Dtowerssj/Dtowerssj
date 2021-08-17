@@ -47,7 +47,7 @@
 </details>
 
 <details>
-  <summary>Data Science</summary>
+  <summary>Data Science 📊</summary>
 
 1.  [Crypto-Tracker](https://github.com/Dtowerssj/crypto-tracker-app) (Cryptocurrencies price tracker)
 2. [Pegasus](https://github.com/Dtowerssj/crypto-tracker-app) (Uber eats clone)
@@ -67,7 +67,7 @@
 
 
 <details>
-  <summary>Blockchain</summary>
+  <summary>Blockchain ₿</summary>
 
 1.  [Crypto-Tracker](https://github.com/Dtowerssj/crypto-tracker-app) (Cryptocurrencies price tracker)
 2. [Pegasus](https://github.com/Dtowerssj/crypto-tracker-app) (Uber eats clone)
