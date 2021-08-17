@@ -41,8 +41,8 @@
   <summary>Apps (React Native <img alt="React" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />) </summary>
 
 1.  [Crypto-Tracker](https://github.com/Dtowerssj/crypto-tracker-app) (Cryptocurrencies price tracker)
-2. [Pegasus](https://github.com/Dtowerssj/crypto-tracker-app) (Uber eats clone)
-3. [Task Master](https://github.com/Dtowerssj/crypto-tracker-app) (Wunderlist clone)
+2. [Pegasus](https://github.com/Dtowerssj/pegasus-app) (Uber eats clone)
+3. [Task Master](https://github.com/Dtowerssj/task-master-app) (Wunderlist clone)
 
 </details>
 
