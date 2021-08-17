@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there, I'm Diego 👋
 
 ## I'm a Computer Engineering Student interested inn Software Engineering, Blockchain, Data Science and Computer Networks!!
