@@ -49,8 +49,8 @@
 <details>
   <summary>Data Science 📊</summary>
 
-1.  [Crypto-Tracker](https://github.com/Dtowerssj/crypto-tracker-app) (Cryptocurrencies price tracker)
-2. [Pegasus](https://github.com/Dtowerssj/crypto-tracker-app) (Uber eats clone)
+1.  [Thesis: Heart Failure Predict](https://github.com/Dtowerssj/heart_failure_prediction) (Heart Failure Prediction: Models Comparison)
+2. [Job board Data Anylisis](https://github.com/Dtowerssj/reed_uk_data_analyze)
 3. [Task Master](https://github.com/Dtowerssj/crypto-tracker-app) (Wunderlist clone)
 
 </details>
