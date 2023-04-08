@@ -3,7 +3,7 @@
 ## I'm a Computer Engineer
 ### Interested in Software Engineering, Blockchain, and Computer Networks!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Kotlin
 - 💼 I’m looking to get my first job
 - ⚡ Chekout my projects! Hope you like them!
 
