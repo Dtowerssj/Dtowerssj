@@ -1,7 +1,7 @@
 ### Hi there, I'm Diego 👋
 
 ## I'm a Computer Engineer
-### Interested in Software Engineering, Blockchain, and Computer Networks!!
+### Interested in Mobile Software Engineering, Blockchain, and Computer Networks!!
 
 - 🌱 I’m currently learning Kotlin
 - 💼 I’m looking to get my first job
